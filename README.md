@@ -46,8 +46,6 @@ Ensure to use a current-limiting resistor between 220Ω and 1kΩ to prevent dama
 
    ```sh
    git clone https://github.com/Saeed-dev2/ESP32_PWM_LED_Control.git
-
-   cd esp32-led-pwm-control
     ```
 2. **Install Dependencies:**
 
