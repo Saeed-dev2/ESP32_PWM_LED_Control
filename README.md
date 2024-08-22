@@ -8,7 +8,7 @@ This project showcases how to control an LED using Pulse Width Modulation (PWM) 
 
 - Configures PWM for precise LED control.
 - Duty cycle set to 75% on and 25% off.
-- Complete on-off cycle duration of 5 seconds.
+- Complete on-off cycle duration of 5 second.
 
 ## Components
 
